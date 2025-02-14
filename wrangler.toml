@@ -1,5 +1,5 @@
 name = "site-status"
 
-compatibility_flags = ["nodejs_compat_v2"]
-pages_build_output_dir = "/dist"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "dist"
 
